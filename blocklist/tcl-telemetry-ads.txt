@@ -1,0 +1,39 @@
+# TCL TV telemetry + ads blocklist (DRAFT, generated from REA static analysis + live capture)
+# Each domain means "this domain AND all subdomains" (AdGuard/NextDNS/router style).
+# Pi-hole users: use tcl-telemetry-ads.pihole-regex.txt for wildcard matching.
+# Not blocked on purpose: tcl.com (may carry firmware OTA), freewheel/innovid (some streaming apps fail playback without them).
+# IP-only endpoint (not DNS-blockable): 8.219.1.25 port 6178 (TCL push). Block at the router if it persists after debloat.
+
+# --- TCL / Leiniao telemetry, config, push, device registration
+leiniao.com
+my7v.com
+tclking.com
+tcljd.com
+tcloudfamily.com
+tcllauncher.com
+cedock.com
+huan.tv
+tclai.top
+ffalcon.cn
+tclchannel.com
+
+# --- Ads / analytics SDKs found in TCL apps
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+app-measurement.com
+admob-gmats.uc.r.appspot.com
+smaato.com
+smaato.net
+smartclip.tv
+smartclip.net
+spotx.tv
+spotxchange.com
+firebase-settings.crashlytics.com
+t-channel-1a080.firebaseio.com
+bugly.qq.com
+bugly.qcloud.com
+
+# --- ACR (defensive; Samba TV code present but dormant)
+samba.tv
+sambatv.com

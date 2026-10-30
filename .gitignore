@@ -1,0 +1,30 @@
+# Private: device identifiers, vendor APKs and decompiled code. Never commit these.
+/recon/
+/apks/
+/rea/
+/backup/
+*.apk
+*.apks
+*.xapk
+
+# Signing material
+keystore.properties
+*.jks
+*.keystore
+
+# Build outputs and local machine config
+build/
+.gradle/
+local.properties
+.idea/
+*.iml
+.kotlin/
+.cxx/
+captures/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini

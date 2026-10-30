@@ -1,0 +1,12 @@
+coast.jpg|Blair Fraser|CC0|https://commons.wikimedia.org/wiki/File:Green_Cliff_Calm_Sea_(Unsplash).jpg
+aoraki.jpg|Aleks Dahlberg|CC0|https://commons.wikimedia.org/wiki/File:Aoraki_Sunrise_(Unsplash).jpg
+mirror-lake.jpg|Ales Krivec|CC0|https://commons.wikimedia.org/wiki/File:Clouds_mirrored_in_a_mountain_lake_(Unsplash).jpg
+yosemite-mist.jpg|John Towner|CC0|https://commons.wikimedia.org/wiki/File:Foggy_Yosemite_Valley_Floor_(Unsplash).jpg
+blue-lake.jpg|Samuel Scrimshaw|CC0|https://commons.wikimedia.org/wiki/File:Blue_lake_and_white_peaks_(Unsplash).jpg
+monument-valley.jpg|Willian West|CC0|https://commons.wikimedia.org/wiki/File:Oljato-Monument_Valley,_United_States_(Unsplash_LzuDyCeOG_k).jpg
+kanchenjunga.jpg|Mukesh Jain|CC0|https://commons.wikimedia.org/wiki/File:Kanchenjunga_South_Peak_(Unsplash).jpg
+moraine.jpg|Ezra Jeffrey|CC0|https://commons.wikimedia.org/wiki/File:Snow_covered_mountain_peaks_in_Moraine_Lake_(Unsplash).jpg
+tropical-valley.jpg|Gez Xavier Mansfield|CC0|https://commons.wikimedia.org/wiki/File:Sunrise_over_tropical_valley_(Unsplash).jpg
+isolation-lake.jpg|Sergei Akulich|CC0|https://commons.wikimedia.org/wiki/File:Snow_and_sunset_at_Isolation_Lake_(Unsplash).jpg
+desert-sculptures.jpg|Kai Gradert|CC0|https://commons.wikimedia.org/wiki/File:Sunrise_On_Desert_Sculptures_(Unsplash).jpg
+golden-forest.jpg|Neven Krcmarek|CC0|https://commons.wikimedia.org/wiki/File:Misty_forest_at_dusk_(Unsplash).jpg
